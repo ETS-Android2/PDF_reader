@@ -1,5 +1,4 @@
-Student name: David Kong
-Student ID: 20759072
+Developer: David Kong
 Windows 10 Home(1909) Surface Laptop 2
 
 Java version:
